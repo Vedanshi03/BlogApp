@@ -17,4 +17,3 @@ Responsive Design: Enjoy seamless access to your blog from any device, whether i
 
 
 Thank you for choosing BlogApp to share your stories with the world. Happy blogging!
-Live Link - blog-app-lac-ten.vercel.app/
