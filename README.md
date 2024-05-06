@@ -1,6 +1,7 @@
 Welcome to BlogApp
 
 Description:
+
 BlogApp is a simple and intuitive web application designed to empower you to share your thoughts, ideas, and experiences with the world. Whether you're a seasoned writer or just starting out, YourBlog provides you with all the tools you need to create, publish, and manage your own blog effortlessly.
 
 Features:
